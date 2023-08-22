@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YNnbV+RE/f14FOtXo0gltiCLEikR/z4CsoDMYZS8P3NU9ktZRqUhMji8Pd7SG6uv2XCpu+1fYRCAZKOXq0PIVg==",
+  "success": true,
+  "projectFilePath": "C:\\Repositorios\\Alura\\CSharp\\librariesCSharp\\ConsumidorPacote\\ConsumidorPacote\\ConsumidorPacote.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas.oliveira\\.nuget\\packages\\bytebank_geradorchavepix_lucas.oliveira.ituran\\1.0.0\\bytebank_geradorchavepix_lucas.oliveira.ituran.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

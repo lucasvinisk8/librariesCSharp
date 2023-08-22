@@ -1,0 +1,17 @@
+C:\Repositorios\Alura\CSharp\librariesCSharp\ConsumidorPacote\ConsumidorPacote\bin\Debug\net6.0\ConsumidorPacote.exe
+C:\Repositorios\Alura\CSharp\librariesCSharp\ConsumidorPacote\ConsumidorPacote\bin\Debug\net6.0\ConsumidorPacote.deps.json
+C:\Repositorios\Alura\CSharp\librariesCSharp\ConsumidorPacote\ConsumidorPacote\bin\Debug\net6.0\ConsumidorPacote.runtimeconfig.json
+C:\Repositorios\Alura\CSharp\librariesCSharp\ConsumidorPacote\ConsumidorPacote\bin\Debug\net6.0\ConsumidorPacote.dll
+C:\Repositorios\Alura\CSharp\librariesCSharp\ConsumidorPacote\ConsumidorPacote\bin\Debug\net6.0\ConsumidorPacote.pdb
+C:\Repositorios\Alura\CSharp\librariesCSharp\ConsumidorPacote\ConsumidorPacote\bin\Debug\net6.0\bytebank_GeradorChavePix.dll
+C:\Repositorios\Alura\CSharp\librariesCSharp\ConsumidorPacote\ConsumidorPacote\obj\Debug\net6.0\ConsumidorPacote.csproj.AssemblyReference.cache
+C:\Repositorios\Alura\CSharp\librariesCSharp\ConsumidorPacote\ConsumidorPacote\obj\Debug\net6.0\ConsumidorPacote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\Alura\CSharp\librariesCSharp\ConsumidorPacote\ConsumidorPacote\obj\Debug\net6.0\ConsumidorPacote.AssemblyInfoInputs.cache
+C:\Repositorios\Alura\CSharp\librariesCSharp\ConsumidorPacote\ConsumidorPacote\obj\Debug\net6.0\ConsumidorPacote.AssemblyInfo.cs
+C:\Repositorios\Alura\CSharp\librariesCSharp\ConsumidorPacote\ConsumidorPacote\obj\Debug\net6.0\ConsumidorPacote.csproj.CoreCompileInputs.cache
+C:\Repositorios\Alura\CSharp\librariesCSharp\ConsumidorPacote\ConsumidorPacote\obj\Debug\net6.0\ConsumidorPacote.csproj.CopyComplete
+C:\Repositorios\Alura\CSharp\librariesCSharp\ConsumidorPacote\ConsumidorPacote\obj\Debug\net6.0\ConsumidorPacote.dll
+C:\Repositorios\Alura\CSharp\librariesCSharp\ConsumidorPacote\ConsumidorPacote\obj\Debug\net6.0\refint\ConsumidorPacote.dll
+C:\Repositorios\Alura\CSharp\librariesCSharp\ConsumidorPacote\ConsumidorPacote\obj\Debug\net6.0\ConsumidorPacote.pdb
+C:\Repositorios\Alura\CSharp\librariesCSharp\ConsumidorPacote\ConsumidorPacote\obj\Debug\net6.0\ConsumidorPacote.genruntimeconfig.cache
+C:\Repositorios\Alura\CSharp\librariesCSharp\ConsumidorPacote\ConsumidorPacote\obj\Debug\net6.0\ref\ConsumidorPacote.dll

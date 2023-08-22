@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsumidorPacote/1.0.0": {
+        "dependencies": {
+          "bytebank_GeradorChavePix_lucas.oliveira.ituran": "1.0.0"
+        },
+        "runtime": {
+          "ConsumidorPacote.dll": {}
+        }
+      },
+      "bytebank_GeradorChavePix_lucas.oliveira.ituran/1.0.0": {
+        "runtime": {
+          "lib/net6.0/bytebank_GeradorChavePix.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsumidorPacote/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "bytebank_GeradorChavePix_lucas.oliveira.ituran/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-61PZxsBqb6Ix1m6bX0FNrdO2JLwjP/sCHEM0T2XNbXP9dG01yVIVuaXjteqhcoTKepz8FmJ04FQ/pPRUY9cvIQ==",
+      "path": "bytebank_geradorchavepix_lucas.oliveira.ituran/1.0.0",
+      "hashPath": "bytebank_geradorchavepix_lucas.oliveira.ituran.1.0.0.nupkg.sha512"
+    }
+  }
+}

@@ -5,6 +5,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Description>Esse pacote se destina gerar chaves Pix de forma aleatória</Description>
+    <Title>Gerador de Chaves Aletatórias PIX</Title>
+    <PackageId>bytebank_GeradorChavePix_lucas.oliveira.ituran</PackageId>
   </PropertyGroup>
 
 </Project>

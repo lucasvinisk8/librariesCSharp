@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repositorios\\Alura\\CSharp\\librariesCSharp\\bytebank_GeradorChavePix\\bytebank_GeradorChavePix\\bytebank_GeradorChavePix.csproj": {}
+    "C:\\Repositorios\\Alura\\CSharp\\librariesCSharp\\ConsumidorPacote\\ConsumidorPacote\\ConsumidorPacote.csproj": {}
   },
   "projects": {
-    "C:\\Repositorios\\Alura\\CSharp\\librariesCSharp\\bytebank_GeradorChavePix\\bytebank_GeradorChavePix\\bytebank_GeradorChavePix.csproj": {
+    "C:\\Repositorios\\Alura\\CSharp\\librariesCSharp\\ConsumidorPacote\\ConsumidorPacote\\ConsumidorPacote.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repositorios\\Alura\\CSharp\\librariesCSharp\\bytebank_GeradorChavePix\\bytebank_GeradorChavePix\\bytebank_GeradorChavePix.csproj",
-        "projectName": "bytebank_GeradorChavePix_lucas.oliveira.ituran",
-        "projectPath": "C:\\Repositorios\\Alura\\CSharp\\librariesCSharp\\bytebank_GeradorChavePix\\bytebank_GeradorChavePix\\bytebank_GeradorChavePix.csproj",
+        "projectUniqueName": "C:\\Repositorios\\Alura\\CSharp\\librariesCSharp\\ConsumidorPacote\\ConsumidorPacote\\ConsumidorPacote.csproj",
+        "projectName": "ConsumidorPacote",
+        "projectPath": "C:\\Repositorios\\Alura\\CSharp\\librariesCSharp\\ConsumidorPacote\\ConsumidorPacote\\ConsumidorPacote.csproj",
         "packagesPath": "C:\\Users\\lucas.oliveira\\.nuget\\packages\\",
-        "outputPath": "C:\\Repositorios\\Alura\\CSharp\\librariesCSharp\\bytebank_GeradorChavePix\\bytebank_GeradorChavePix\\obj\\",
+        "outputPath": "C:\\Repositorios\\Alura\\CSharp\\librariesCSharp\\ConsumidorPacote\\ConsumidorPacote\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -42,6 +42,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "bytebank_GeradorChavePix_lucas.oliveira.ituran": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
