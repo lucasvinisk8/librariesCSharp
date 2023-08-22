@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aDhY2qb/ahlXCCHXmg9q8ih5xDUB0z3cxptRZ5qLUFS/8eVem8ZNYOpnOroOOEtv4n8VacwsIi0MPGnIKEE9Vw==",
+  "success": true,
+  "projectFilePath": "C:\\Repositorios\\Alura\\CSharp\\librariesCSharp\\curso_bibliotecas-Aula01\\bytebank_ATENDIMENTO\\bytebank_ATENDIMENTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas.oliveira\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

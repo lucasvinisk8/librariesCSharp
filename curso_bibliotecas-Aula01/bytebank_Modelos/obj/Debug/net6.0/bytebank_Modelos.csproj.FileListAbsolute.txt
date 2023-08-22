@@ -1,0 +1,12 @@
+C:\Repositorios\Alura\CSharp\librariesCSharp\curso_bibliotecas-Aula01\bytebank_Modelos\bin\Debug\net6.0\bytebank_Modelos.deps.json
+C:\Repositorios\Alura\CSharp\librariesCSharp\curso_bibliotecas-Aula01\bytebank_Modelos\bin\Debug\net6.0\bytebank_Modelos.dll
+C:\Repositorios\Alura\CSharp\librariesCSharp\curso_bibliotecas-Aula01\bytebank_Modelos\bin\Debug\net6.0\bytebank_Modelos.pdb
+C:\Repositorios\Alura\CSharp\librariesCSharp\curso_bibliotecas-Aula01\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.csproj.AssemblyReference.cache
+C:\Repositorios\Alura\CSharp\librariesCSharp\curso_bibliotecas-Aula01\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\Alura\CSharp\librariesCSharp\curso_bibliotecas-Aula01\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.AssemblyInfoInputs.cache
+C:\Repositorios\Alura\CSharp\librariesCSharp\curso_bibliotecas-Aula01\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.AssemblyInfo.cs
+C:\Repositorios\Alura\CSharp\librariesCSharp\curso_bibliotecas-Aula01\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.csproj.CoreCompileInputs.cache
+C:\Repositorios\Alura\CSharp\librariesCSharp\curso_bibliotecas-Aula01\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.dll
+C:\Repositorios\Alura\CSharp\librariesCSharp\curso_bibliotecas-Aula01\bytebank_Modelos\obj\Debug\net6.0\refint\bytebank_Modelos.dll
+C:\Repositorios\Alura\CSharp\librariesCSharp\curso_bibliotecas-Aula01\bytebank_Modelos\obj\Debug\net6.0\bytebank_Modelos.pdb
+C:\Repositorios\Alura\CSharp\librariesCSharp\curso_bibliotecas-Aula01\bytebank_Modelos\obj\Debug\net6.0\ref\bytebank_Modelos.dll
